@@ -1,0 +1,28 @@
+{
+  "name": "hiring-coders-typescript-intro",
+  "version": "1.0.0",
+  "description": "Códigos desenvolvidos durante o Bootcamp Hiring coders\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[3~\u001b[3~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliamsousa/hiring-coders-typescript-intro.git"
+  },
+  "keywords": [
+    "Bootcamp",
+    "Typescript",
+    "Javascript"
+  ],
+  "author": "Julia Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliamsousa/hiring-coders-typescript-intro/issues"
+  },
+  "homepage": "https://github.com/juliamsousa/hiring-coders-typescript-intro#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
